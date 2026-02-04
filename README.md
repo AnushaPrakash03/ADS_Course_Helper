@@ -45,3 +45,33 @@ print("✅ Helper functions loaded!")
 **That's it!** Now you can use the functions throughout your notebook.
 
 ---
+
+## 🔧 Requirements
+
+### Python Version
+- Python 3.7+
+
+### Required Packages
+```
+numpy>=1.19.0
+pandas>=1.1.0
+matplotlib>=3.3.0
+seaborn>=0.11.0
+scipy>=1.5.0
+statsmodels>=0.12.0
+scikit-learn>=0.24.0
+```
+
+### Install All Dependencies
+```bash
+pip install numpy pandas matplotlib seaborn scipy statsmodels scikit-learn
+```
+
+**In Colab:** All packages are pre-installed! ✅
+
+---
+
+## Contribution
+
+Anusha Prakash
+Teaching Assistant
