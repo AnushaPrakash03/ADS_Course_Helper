@@ -73,5 +73,7 @@ pip install numpy pandas matplotlib seaborn scipy statsmodels scikit-learn
 
 ## Contribution
 
+```
 Anusha Prakash
 Teaching Assistant
+```
